@@ -52,7 +52,7 @@ This example uses microdata attributes to represent the following structured dat
 <dl
   itemscope
   itemtype="https://schema.org/Book"
-  itemid="urn:isbn:0-374-22848-5<">
+  itemid="urn:isbn:0-374-22848-5">
   <dt>Title</dt>
   <dd itemprop="title">Owls of the Eastern Ice</dd>
   <dt>Author</dt>
